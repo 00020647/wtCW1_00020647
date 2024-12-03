@@ -1,6 +1,9 @@
 Website URL: 
 https://00020647.github.io/wtCW1_00020647/
 
+Link to the repository: 
+https://github.com/00020647/wtCW1_00020647.git
+
 Student ID: 00020647
 
 The website was created for Samarkand State School #35, a real school in Samarkand where I studied.
@@ -17,6 +20,7 @@ Meanwhile, elements that are unique only to the certain page was included in its
 There are no script.js file since I included all of the JavaScript in the html pages.
 
 The website is hosted in GitHub with the following URL: https://00020647.github.io/wtCW1_00020647/
+Link to the repository: https://github.com/00020647/wtCW1_00020647.git
 
 Student ID: 00020647
 
